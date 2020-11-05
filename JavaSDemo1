@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+<body>
+	<h1> Please Enter your information here (Please use only letters and numbers)</h1>
+<form>
+ 	<label for=”screenname”>Screenname:</label><br>
+	<input type=”text” id=”screenname” pattern=”[A-Za-z0-9]+”>
+</form>
+</body>
+</html> 
